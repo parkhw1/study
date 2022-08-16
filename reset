@@ -1,0 +1,25 @@
+[33mcommit b9910b113a9ff864464ed37151c5c46f95fefe1f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: haewon <ahaewon@gmail.com>
+Date:   Tue Aug 16 10:21:30 2022 +0900
+
+    Revert "Add Modify Delete"
+    
+    This reverts commit b80aef0b73a087bde46d3bd5a69b56c53280400a.
+
+[33mcommit b80aef0b73a087bde46d3bd5a69b56c53280400a[m
+Author: haewon <ahaewon@gmail.com>
+Date:   Tue Aug 16 10:18:31 2022 +0900
+
+    Add Modify Delete
+
+[33mcommit 536f74d75acf7ff6cf031909252bd0e91c17b1fa[m
+Author: haewon <ahaewon@gmail.com>
+Date:   Tue Aug 16 10:16:43 2022 +0900
+
+    add dog
+
+[33mcommit 395a4ecd2cd759a13a773b5a10ea812d8c32a59b[m
+Author: haewon <ahaewon@gmail.com>
+Date:   Tue Aug 16 10:15:08 2022 +0900
+
+    first commit
